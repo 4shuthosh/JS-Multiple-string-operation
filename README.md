@@ -62,3 +62,10 @@ This JS that allows users to perform various string operations interactively. It
 ### 10. **Analyze String**
 - **Input**: `Hello, world! How are you?`
 - **Output**:
+
+
+## How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/4shutosh/JS-Multiple-String-operation.git
+
